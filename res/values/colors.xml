@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 	<color name="ltgray">#ffcccccc</color>
-	<color name="dkgray">#ff444444</color>
+	<color name="dkgray">#ff000000</color>
     <color name="black">#000000</color>
     <color name="cmwhite">#ffffffff</color>
-    <color name="cmdkgray">#21272b</color>
+    <color name="cmdkgray">#ff1976D2</color>
     <color name="cmgray">#263238</color>
-    <color name="mdgray">#a0a0a0</color>
+    <color name="mdgray">#ff000000</color>
     <color name="sammydkblue">#00849d</color>
     <color name="sammyltblue">#00a5c3</color>
     <color name="sammyyellow">#f8e57f</color>
     <color name="sammytext">#427882</color>
     <color name="lightaccent">#009688</color>
-    <color name="darkaccent">#80cbc4</color>
+    <color name="darkaccent">#ff1976D2</color>
 </resources>

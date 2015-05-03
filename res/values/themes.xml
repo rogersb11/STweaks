@@ -169,7 +169,7 @@
         <item name="android:layout_height">wrap_content</item>
         <item name="android:textStyle">italic</item>
         <item name="android:padding">@dimen/size_medium</item>
-        <item name="android:textColor">@color/ltgray</item>
+        <item name="android:textColor">@color/cmwhite</item>
     </style>
     <style name="template_panelname_dark">
         <item name="android:layout_width">fill_parent</item>
@@ -203,6 +203,7 @@
         <item name="android:paddingStart">@dimen/size_medium</item>
         <item name="android:paddingEnd">@dimen/size_medium</item>
         <item name="android:background">@drawable/dark_panel_background</item>
+        <item name="android:textColor">@color/cmwhite</item>
     </style>
     <style name="template_accept_decline_dark">
         <item name="android:layout_width">match_parent</item>

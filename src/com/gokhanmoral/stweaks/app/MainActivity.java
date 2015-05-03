@@ -469,7 +469,7 @@ public class MainActivity extends FragmentActivity implements ActionBar.TabListe
                 Intent intent = new Intent();
                 intent.setAction(Intent.ACTION_VIEW);
                 intent.addCategory(Intent.CATEGORY_BROWSABLE);
-                intent.setData(Uri.parse("http://forum.xda-developers.com/donatetome.php?u=4899086"));
+                intent.setData(Uri.parse("http://forum.xda-developers.com/donatetome.php?u=5554845"));
                 startActivity(intent);
             }
             return true;
@@ -495,7 +495,7 @@ public class MainActivity extends FragmentActivity implements ActionBar.TabListe
                 Intent intent = new Intent();
                 intent.setAction(Intent.ACTION_VIEW);
                 intent.addCategory(Intent.CATEGORY_BROWSABLE);
-                intent.setData(Uri.parse("http://forum.xda-developers.com/showthread.php?t=2590246"));
+                intent.setData(Uri.parse("http://forum.xda-developers.com/galaxy-note-2/development-n7105/kernel-08-15-14-t2849082"));
                 startActivity(intent);
             }
             return true;
@@ -870,7 +870,7 @@ public class MainActivity extends FragmentActivity implements ActionBar.TabListe
     }
 
     public void profileCheck(View view) {
-        Toast toast = Toast.makeText(getApplicationContext(), getResources().getText(R.string.yourprofile) + Utils.executeRootCommandInThread("cat /data/.alucard/.active.profile"), Toast.LENGTH_SHORT);
+        Toast toast = Toast.makeText(getApplicationContext(), getResources().getText(R.string.yourprofile) + Utils.executeRootCommandInThread("cat /data/.shift/.active.profile"), Toast.LENGTH_SHORT);
         toast.show();
     }
 

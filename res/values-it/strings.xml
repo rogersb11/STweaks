@@ -61,6 +61,6 @@
     <string name="pref_description_theme">"Seleziona il tuo tema preferito"</string>
     <string name="pref_theme">"Selezione tema"</string>
     <string name="theme_change">"STweaks ora si riavvierà con il nuovo tema selezionato"</string>
-    <string name="contributors">"Alu Team, Tester e Collaboratori:\nalucard24, AntaresOne, smeroni68, Jimsilver73, franzyroy, Angelcalibur, -+BB+-"</string>
+    <string name="contributors"></string>
     <string name="pref_changelog">"Changelog completo nel mio GitHub"</string>
 </resources>

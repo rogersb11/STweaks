@@ -11,7 +11,7 @@
     <string name="flash_kernel">Flash Kernel</string>
     <string name="coming_soon">Coming soon!</string>
     <string name="reset_settings">Reset settings to default</string>
-    <string name="developer_info" tools:ignore="TypographyDashes">Developed by Gokhan Moral\nUpdated by B--B</string>
+    <string name="developer_info" tools:ignore="TypographyDashes">Developed by Gokhan Moral\nUpdated by B--B\nTweaked by rogersb11</string>
     <string name="startmenu_no_root">No root access, or timeout!</string>
     <string name="kernel_thread">Kernel Thread</string>
     <string name="donation">Donation</string>
@@ -19,7 +19,7 @@
     <string name="app_bug">Bug report for App</string>
     <string name="logging">Collecting logs for 30 seconds, please wait until STweaks will close</string>
     <string name="wait">Loading profile, wait until STweaks exit and restart by itself</string>
-    <string name="log_done">All Data collected and ready at /sdcard/alucard-debug.zip</string>
+    <string name="log_done">All Data collected and ready at /sdcard/shift-debug.zip</string>
     <string name="select_profile">STweaks Profiles</string>
     <string name="profile_check">Check Profile</string>
     <string name="extreme_performance">Extreme Performance Profile</string>
@@ -55,7 +55,7 @@
     <string name="no_icon">"Removing STweaks icon, just wait a few seconds"</string>
     <string name="do_not_show">"Do not show again"</string>
     <string name="icon_prompt">"STweaks icon now will disappear from your launcher. If STweaks has not been integrated in your ROM you will have to manually uninstall it, reboot your device and reinstall STweaks again!"</string>
-    <string name="contributors">"Alu Team,Testers and Contributors:\nalucard24, AntaresOne, smeroni68, Jimsilver73, franzyroy, Angelcalibur, -+BB+-"</string>
+    <string name="contributors"></string>
     <string name="pref_animation_in">"Animation In"</string>
     <string name="pref_animation_in_description">"Animation used when Accept/Discard changes buttons become visible"</string>
     <string name="pref_animation_in_default" translatable="false">"fadescalein"</string>
@@ -67,7 +67,7 @@
     <string name="pref_animation_out_default_decline" translatable="false">"fadescaleout"</string>
     <string name="pref_theme">"Theme Chooser"</string>
     <string name="pref_description_theme">"Choose your favourite theme"</string>
-    <string name="pref_theme_default" translatable="false">"light"</string>
+    <string name="pref_theme_default" translatable="false">"dark"</string>
     <string name="theme_change">"STweaks will now restart with the selected theme"</string>
     <string name="pref_changelog">"Full changelog on my GitHub"</string>
 
