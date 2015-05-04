@@ -27,7 +27,6 @@
     <string name="default_profile">Default Profile</string>
     <string name="battery">Battery</string>
     <string name="extreme_battery">Extreme Battery Profile</string>
-    <string name="disclaimer">We\'re not responsible for bricked devices, dead SD cards, thermonuclear war, or you getting fired because the alarm app failed. Please do some research if you have any concerns about features included in this application before changing any value! YOU are choosing to make these modifications, and if you point the finger at us for messing up your device, we will laugh at you.\nAlu Team,Testers and Contributors\nalucard24, AntaresOne, smeroni68, Jimsilver73, franzyroy, Angelcalibur, -+BB+-</string>
     <string name="reset_settings_prompt">All settings will be reset. You will have to relaunch the application.</string>
     <string name="warning">Warning</string>
     <string name="ok">OK</string>
@@ -65,10 +64,6 @@
     <string name="pref_animation_out_description_decline">"Animation used when user press Discard Button"</string>
     <string name="pref_animation_out_decline">"Animation Out Decline Button"</string>
     <string name="pref_animation_out_default_decline" translatable="false">"fadescaleout"</string>
-    <string name="pref_theme">"Theme Chooser"</string>
-    <string name="pref_description_theme">"Choose your favourite theme"</string>
-    <string name="pref_theme_default" translatable="false">"dark"</string>
-    <string name="theme_change">"STweaks will now restart with the selected theme"</string>
     <string name="pref_changelog">"Full changelog on my GitHub"</string>
 
 </resources>

@@ -52,16 +52,4 @@
         <item>fadescaleout</item>
     </string-array>
 
-    <string-array
-        name="pref_theme_entries">
-        <item>Tema Chiaro</item>
-        <item>Tema Scuro</item>
-        <item>Tema Samsung</item>
-    </string-array>
-    <string-array
-        name="pref_theme_values">
-        <item>light</item>
-        <item>dark</item>
-        <item>sammy</item>
-    </string-array>
 </resources>
